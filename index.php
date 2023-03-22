@@ -13,6 +13,10 @@ echo $z;
 echo "<h1> La suma de ".$x." y ".$y." es: ".$z."</h1>";
 echo "<h1> Lets goooo </h1>";
 echo "<h1> MMG </h1>";
-echo "<h1> XD </h1>";
-
+echo "<h1> MMG </h1>";
+echo "<h1> MMG </h1>";
+echo "<h1> MMG </h1>";
+echo "<h1> MMG </h1>";
+echo "<h1> MMG </h1>";
+echo "<h1> MMG </h1>";
 ?>
